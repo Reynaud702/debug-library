@@ -1,0 +1,23 @@
+# Object files
+*.o
+*.a
+
+# Executables
+test/main
+main
+
+# Build directories
+lib/
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*~
+
+# Archives
+*.tar.gz
+*.zip
